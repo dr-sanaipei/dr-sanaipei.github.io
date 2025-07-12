@@ -12,7 +12,7 @@ excerpt: "Exploring the intersection of tech and health."
 
 # 👋 Hi, I’m Sanaipei
 
-Welcome to my GitHub Pages site! I’m passionate about **cybersecurity**, **medicine**, and using technology to drive meaningful change.
+A medical doctor diving deep into the world of cybersecurity.
 
 ---
 
