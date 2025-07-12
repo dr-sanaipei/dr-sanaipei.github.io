@@ -24,16 +24,19 @@ A medical doctor diving deep into the world of cybersecurity.
 
 ---
 
-## 💼 Work Experience
+## 🩺 Work Experience
 
-**Medical Officer**  
-*Halisi Family Hospital — Apr 2025 to June 2025*
+- **Medical Officer**, *Halisi Family Hospital*  
+  *April 2025 – June 2025*  
+  Provided outpatient and inpatient care, conducted clinical assessments, and collaborated with multidisciplinary teams to ensure quality patient outcomes.
 
-- Managed diverse patient cases in obstetrics & gynecology, pediatrics, internal medicine, and surgery, with accurate diagnosis and tailored management plans.
-- Responded to acute and chronic cases, making rapid, evidence-based decisions to ensure patient safety and positive outcomes.
-- Fostered compassionate communication with patients, families, and healthcare teams, enhancing trust and collaborative care.
-- Contributed to multidisciplinary care through teamwork in ward rounds, surgical preparations, and clinical procedures.
-- Utilized electronic health systems to document progress, manage investigations, and prepare discharge summaries and insurance reports efficiently.
+- **Medical Officer**, *Medicatia Hospital*  
+  *January 2025 – March 2025*  
+  Delivered general medical services, supported emergency care, and contributed to continuous quality improvement initiatives.
+
+- **Medical Officer Intern**, *AIC Kijabe Hospital*  
+  *June 2023 – June 2024*  
+  Rotated through key departments including Internal Medicine, Surgery, Pediatrics, and Obstetrics & Gynecology; developed strong clinical and procedural skills under supervision.
 
 ---
 
