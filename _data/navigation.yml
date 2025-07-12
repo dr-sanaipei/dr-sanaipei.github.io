@@ -1,4 +1,8 @@
 main:
+  - title: "Projects"
+    url: /projects/
+  - title: "Lab Challenges"
+    url: /lab-challenges/
   - title: "Posts"
     url: /posts/
   - title: "About"
